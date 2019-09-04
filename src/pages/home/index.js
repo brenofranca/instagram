@@ -1,6 +1,7 @@
 import React from 'react';
 import HeaderLogo from '../../components/headerLogo';
 import Histories from '../../components/histories';
+import Feed from '../../components/feed';
 import {
   Camera,
   CameraIcon,
@@ -19,10 +20,11 @@ export default function home() {
         </Camera>
         <HeaderLogo />
         <DirectMessage>
-          <DirectMessageIcon name="send" />
+          <DirectMessageIcon name="send-o" />
         </DirectMessage>
       </Header>
       <Histories />
+      <Feed />
     </Container>
   );
 }
