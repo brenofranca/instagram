@@ -1,0 +1,360 @@
+{
+  "histories": {
+    "data": [
+      {
+        "gender": "female",
+        "name": {"title": "ms", "first": "jucelaine", "last": "nascimento"},
+        "location": {
+          "street": "6567 rua dezesseis de maio",
+          "city": "maranguape",
+          "state": "distrito federal",
+          "postcode": 12669,
+          "coordinates": {"latitude": "-4.3333", "longitude": "85.6191"},
+          "timezone": {"offset": "-9:00", "description": "Alaska"}
+        },
+        "email": "jucelaine.nascimento@example.com",
+        "login": {
+          "uuid": "7ab1a483-0f31-4b2e-814d-32e0f2a68c4c",
+          "username": "ticklishelephant255",
+          "password": "dottie",
+          "salt": "0ofUl4cg",
+          "md5": "df852082cd743dd1823f1d60688f36c6",
+          "sha1": "259ffca63409bc9f4018029bf5c9a71fb903ddf9",
+          "sha256": "f55d7b78d545974601c7f50037825c65faa60194fdad78f1598eb5a110f51abe"
+        },
+        "dob": {"date": "1993-04-11T12:03:44Z", "age": 26},
+        "registered": {"date": "2002-12-08T01:43:30Z", "age": 16},
+        "phone": "(16) 4573-7845",
+        "cell": "(24) 2859-1417",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/93.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "female",
+        "name": {"title": "miss", "first": "luísa", "last": "da luz"},
+        "location": {
+          "street": "1755 rua onze ",
+          "city": "maricá",
+          "state": "pernambuco",
+          "postcode": 25989,
+          "coordinates": {"latitude": "58.7197", "longitude": "-16.8504"},
+          "timezone": {"offset": "-9:00", "description": "Alaska"}
+        },
+        "email": "luísa.daluz@example.com",
+        "login": {
+          "uuid": "8373e8e2-61bb-4e94-b127-892634306bc4",
+          "username": "lazyleopard115",
+          "password": "darkstar",
+          "salt": "yorpazUW",
+          "md5": "97961c0c49d85fbe9ed8126e3d20fb24",
+          "sha1": "605098e38a6708a5e5882db66bd1e23e8031e3bf",
+          "sha256": "ccd1db81c19e8036f3959c74545bc580354dad5d7c834e82b7352c336f8484a6"
+        },
+        "dob": {"date": "1985-07-21T15:51:43Z", "age": 34},
+        "registered": {"date": "2002-11-02T09:35:45Z", "age": 16},
+        "phone": "(13) 2475-7922",
+        "cell": "(31) 5920-6263",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/30.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "male",
+        "name": {"title": "mr", "first": "antero", "last": "novaes"},
+        "location": {
+          "street": "6492 rua são pedro ",
+          "city": "umuarama",
+          "state": "sergipe",
+          "postcode": 50958,
+          "coordinates": {"latitude": "-1.2537", "longitude": "1.7549"},
+          "timezone": {"offset": "-10:00", "description": "Hawaii"}
+        },
+        "email": "antero.novaes@example.com",
+        "login": {
+          "uuid": "0c041437-b9cf-4334-a9f3-0b3a5631b1ac",
+          "username": "lazybird233",
+          "password": "katie",
+          "salt": "1VNTiFV1",
+          "md5": "dbfcefd8cb4714f1144346201e64aa17",
+          "sha1": "8c415f0af9dcf48bbb98be173964bcbca848b5ac",
+          "sha256": "6d34a7fb2a26a9b06a650ea4229173ab21e6066c989ee0161b7d1a9b480dfe12"
+        },
+        "dob": {"date": "1957-06-27T20:16:19Z", "age": 62},
+        "registered": {"date": "2012-10-13T17:35:49Z", "age": 6},
+        "phone": "(18) 1313-7910",
+        "cell": "(59) 5743-3031",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/38.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "female",
+        "name": {"title": "ms", "first": "raquélen", "last": "martins"},
+        "location": {
+          "street": "7515 rua vinte e dois ",
+          "city": "lauro de freitas",
+          "state": "pernambuco",
+          "postcode": 20215,
+          "coordinates": {"latitude": "80.4276", "longitude": "146.1225"},
+          "timezone": {
+            "offset": "+8:00",
+            "description": "Beijing, Perth, Singapore, Hong Kong"
+          }
+        },
+        "email": "raquélen.martins@example.com",
+        "login": {
+          "uuid": "7dcab28c-d871-423a-a1d2-416bf219f8b6",
+          "username": "blackdog107",
+          "password": "bigdog1",
+          "salt": "EjwdkXge",
+          "md5": "bef2902eb0c065994a4652d3c664b04b",
+          "sha1": "6cb8e6b2bbb076b189016e6e4c00573984d48288",
+          "sha256": "8da1ce92cf247798b4e16cf7d95b27de9920a7b3cc4fec02ce2e9f5a97b625e5"
+        },
+        "dob": {"date": "1949-08-12T11:04:56Z", "age": 70},
+        "registered": {"date": "2003-11-15T04:30:38Z", "age": 15},
+        "phone": "(28) 1238-3820",
+        "cell": "(07) 8427-6047",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/12.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "male",
+        "name": {"title": "mr", "first": "isildo", "last": "melo"},
+        "location": {
+          "street": "8381 rua são joão ",
+          "city": "cariacica",
+          "state": "santa catarina",
+          "postcode": 84167,
+          "coordinates": {"latitude": "-26.0386", "longitude": "-48.0015"},
+          "timezone": {
+            "offset": "-5:00",
+            "description": "Eastern Time (US & Canada), Bogota, Lima"
+          }
+        },
+        "email": "isildo.melo@example.com",
+        "login": {
+          "uuid": "06259c8e-dce7-4917-a502-c1122201123d",
+          "username": "goldenleopard294",
+          "password": "sweets",
+          "salt": "MOUpSphh",
+          "md5": "0ef39233ceaf0a3e7f35a46458aad4ad",
+          "sha1": "50c21e2ffdfe786ed69e67b7186927170f307e8a",
+          "sha256": "589bfe6cdc0561eb5e8fcb6039b6d1ed116ad5f82adb7e38aa0b8ce17b0380cd"
+        },
+        "dob": {"date": "1972-09-23T23:05:52Z", "age": 46},
+        "registered": {"date": "2007-03-31T00:14:27Z", "age": 12},
+        "phone": "(61) 3625-2589",
+        "cell": "(43) 7094-3878",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/88.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "male",
+        "name": {"title": "mr", "first": "hermenegildo", "last": "barros"},
+        "location": {
+          "street": "9267 rua são pedro ",
+          "city": "manaus",
+          "state": "são paulo",
+          "postcode": 78908,
+          "coordinates": {"latitude": "-65.8806", "longitude": "-84.0006"},
+          "timezone": {"offset": "-9:00", "description": "Alaska"}
+        },
+        "email": "hermenegildo.barros@example.com",
+        "login": {
+          "uuid": "5d5d301c-d74c-4a06-b448-94dc3dd9ab4b",
+          "username": "heavyzebra590",
+          "password": "1023",
+          "salt": "9pbUSPKs",
+          "md5": "73c6d4d9fe50522b106cc311323eaa6d",
+          "sha1": "f061f5605ca9d977e4b2a945e3c71316b0437183",
+          "sha256": "5a01b2a16a80b2a1d5a52ac3b78736e4f92b92edf71ba6f79924174e6d27791a"
+        },
+        "dob": {"date": "1957-01-29T18:52:36Z", "age": 62},
+        "registered": {"date": "2018-04-25T02:47:56Z", "age": 1},
+        "phone": "(60) 6886-1221",
+        "cell": "(77) 2120-8585",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/33.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "male",
+        "name": {"title": "mr", "first": "tude", "last": "teixeira"},
+        "location": {
+          "street": "9917 rua são sebastiao ",
+          "city": "taboão da serra",
+          "state": "paraíba",
+          "postcode": 43243,
+          "coordinates": {"latitude": "-46.2828", "longitude": "-133.8552"},
+          "timezone": {
+            "offset": "+2:00",
+            "description": "Kaliningrad, South Africa"
+          }
+        },
+        "email": "tude.teixeira@example.com",
+        "login": {
+          "uuid": "1e48384e-a25a-4384-8df6-6c0f65dce317",
+          "username": "saddog500",
+          "password": "norton",
+          "salt": "Vif8VEDt",
+          "md5": "0abe597669cad6eebcbdbbf25f1e356b",
+          "sha1": "4136dc0095e5f1429812158fd6c22c16fe378841",
+          "sha256": "9fef6eff689dc073f460bbb241eccfbf63181059d11438f5f2f88f2ed5c03b5f"
+        },
+        "dob": {"date": "1948-02-15T11:11:01Z", "age": 71},
+        "registered": {"date": "2002-04-10T23:44:00Z", "age": 17},
+        "phone": "(50) 5532-2068",
+        "cell": "(76) 0003-6624",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/68.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "male",
+        "name": {"title": "mr", "first": "rudesindo", "last": "moura"},
+        "location": {
+          "street": "6748 rua duque de caxias ",
+          "city": "carapicuíba",
+          "state": "rondônia",
+          "postcode": 42113,
+          "coordinates": {"latitude": "-74.8979", "longitude": "-138.4719"},
+          "timezone": {
+            "offset": "+9:00",
+            "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+          }
+        },
+        "email": "rudesindo.moura@example.com",
+        "login": {
+          "uuid": "ec8fcf30-bba9-4407-b83f-5a1ade92332c",
+          "username": "orangezebra953",
+          "password": "getsome",
+          "salt": "ysgYFqoM",
+          "md5": "c1a576ce454fecf5a55787bff93b6563",
+          "sha1": "87c284138e490fb1915e7f99460e70931ea6dc58",
+          "sha256": "e9f8e0812a1f7f62f68ae8a149e5ca502a8b7886a34f11eb8c0a9b49d3139e01"
+        },
+        "dob": {"date": "1961-01-27T20:38:08Z", "age": 58},
+        "registered": {"date": "2008-11-20T03:07:06Z", "age": 10},
+        "phone": "(78) 9392-6630",
+        "cell": "(52) 7821-1678",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/30.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "male",
+        "name": {"title": "mr", "first": "nataniel", "last": "pereira"},
+        "location": {
+          "street": "3912 rua dezenove de outubro",
+          "city": "patos",
+          "state": "rio grande do norte",
+          "postcode": 11574,
+          "coordinates": {"latitude": "43.7396", "longitude": "-93.8984"},
+          "timezone": {
+            "offset": "+1:00",
+            "description": "Brussels, Copenhagen, Madrid, Paris"
+          }
+        },
+        "email": "nataniel.pereira@example.com",
+        "login": {
+          "uuid": "240d8e93-0ef8-4fde-85c2-1fc774ab2710",
+          "username": "smallbird363",
+          "password": "happy123",
+          "salt": "zAbK2zsG",
+          "md5": "c00923cb0110c8131a41fed9a9165d9d",
+          "sha1": "671a2bc2a0e447d7cef03a0de350b243593be2a5",
+          "sha256": "a6ef2d7b0d0f6c163055328020b35dfcac0102e459063d2e29ae0336abcb755f"
+        },
+        "dob": {"date": "1974-12-28T05:20:36Z", "age": 44},
+        "registered": {"date": "2017-03-26T00:52:55Z", "age": 2},
+        "phone": "(88) 1434-8217",
+        "cell": "(22) 6606-6374",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/69.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "female",
+        "name": {"title": "mrs", "first": "maritza", "last": "ferreira"},
+        "location": {
+          "street": "7873 rua belo horizonte ",
+          "city": "bento gonçalves",
+          "state": "distrito federal",
+          "postcode": 57061,
+          "coordinates": {"latitude": "32.7264", "longitude": "15.8366"},
+          "timezone": {
+            "offset": "0:00",
+            "description": "Western Europe Time, London, Lisbon, Casablanca"
+          }
+        },
+        "email": "maritza.ferreira@example.com",
+        "login": {
+          "uuid": "1886430a-dba0-4005-aa46-d6dada53c564",
+          "username": "goldenladybug570",
+          "password": "alfa",
+          "salt": "impB996u",
+          "md5": "f9c570d1c19bce06285c3205a817cfeb",
+          "sha1": "1f66f9162e831b9ad3250aa953344f1ae53134cd",
+          "sha256": "374c21894bf6e2c061c098d5dd31005c9d8edcbbcae8077c845908d5c0d0d5b4"
+        },
+        "dob": {"date": "1949-03-03T09:03:14Z", "age": 70},
+        "registered": {"date": "2007-01-01T07:42:40Z", "age": 12},
+        "phone": "(46) 8254-1746",
+        "cell": "(48) 2495-3563",
+        "id": {"name": "", "value": null},
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/46.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+        },
+        "nat": "BR"
+      }
+    ],
+    "info": {
+      "seed": "1e016d7b5645617a",
+      "results": 10,
+      "page": 1,
+      "version": "1.2"
+    }
+  }
+}
